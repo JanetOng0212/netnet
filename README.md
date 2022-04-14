@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://kidscardonations.org/wp-content/uploads/2019/08/Mickey-Mouse-Mascot.jpg)
 
 <!-- Add your details -->
 
